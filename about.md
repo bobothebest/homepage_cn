@@ -4,7 +4,7 @@ title: 关于我
 ---
 <h1 style="font-family: 华文楷体;font-size:7;text-align:center;">张梓源</h1>
 
-<p style="font-family: 华文楷体;">我现在是[上海财经大学](https://www.sufe.edu.cn/structure/index.psp)[统计与管理学院](https://ssm.sufe.edu.cn/)数理金融与金融科技研究生一年级的学生。非常幸运能够在[邱怡轩](https://yixuan.blog/)老师的指导下进行学习。爱好各种新鲜娱乐活动，近期正在尝试学习瑜伽和网球，欢迎各位朋友滴滴我进行学习生活交流：）</p>
+<p style="font-family: 华文楷体;">我现在是<a href="https://www.sufe.edu.cn/structure/index.psp">上海财经大学</a><a href="https://ssm.sufe.edu.cn/">统计与管理学院</a>数理金融与金融科技研究生一年级的学生。非常幸运能够在<a href="https://yixuan.blog/">邱怡轩</a>老师的指导下进行学习。爱好各种新鲜娱乐活动，近期正在尝试学习瑜伽和网球，欢迎各位朋友滴滴我进行学习生活交流：）</p>
 
 我现在是[上海财经大学](https://www.sufe.edu.cn/structure/index.psp)[统计与管理学院](https://ssm.sufe.edu.cn/)数理金融与金融科技研究生一年级的学生。非常幸运能够在[邱怡轩](https://yixuan.blog/)老师的指导下进行学习。爱好各种新鲜娱乐活动，近期正在尝试学习瑜伽和网球，欢迎各位朋友滴滴我进行学习生活交流：）
 
