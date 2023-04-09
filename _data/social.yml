@@ -1,9 +1,9 @@
 - title: Email
-  url: mailto://xiguifei@bu.edu
+  url: mailto:xiguifei@bu.edu
   icon: fas fa-envelope
 #- title: Twitter
 #  url: https://twitter.com/vszhub
 #  icon: fab fa-twitter
 - title: GitHub
-  url: https://https://github.com/bobothebest
+  url: https://github.com/bobothebest
   icon: fab fa-github
