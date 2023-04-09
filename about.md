@@ -19,8 +19,7 @@ title: 关于我
 研究生学业奖学金二等奖
 
 
-<td><h3 style="font-family: 宋体;">宋体：SimSun</h3></td>
-<p style="font-family: 宋体;">一部分文字</p>
+<td><h3 style="font-family: 华文仿宋;">华文仿宋：STFangsong</h3></td>
 
 
 <table border="1" cellpadding="0" cellspacing="0" >
