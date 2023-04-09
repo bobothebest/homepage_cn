@@ -21,3 +21,50 @@ title: 关于我
 
 <td><h3 style="font-family: 宋体;">宋体：SimSun</h3></td>
 <p style="font-family: 宋体;">一部分文字</p>
+
+
+<table border="1" cellpadding="0" cellspacing="0" >
+    <tr>
+        <td><h3 style="font-family: 黑体;">黑体：SimHei</h3></td>
+        <td><h3 style="font-family: 华文黑体;">华文黑体：STHeiti</h3></td>
+        <td><h3 style="font-family: 微软正黑体;">微软正黑体：Microsoft JhengHei</h3></td>
+        <td><h3 style="font-family: 微软雅黑体;">微软雅黑体：Microsoft YaHei</h3></td>
+        <td><h3 style="font-family: 华文细黑;">华文细黑：STXihei</h3></td>
+    </tr>
+    <tr>
+        <td><h3 style="font-family: 楷体;">楷体：KaiTi</h3></td>
+        <td><h3 style="font-family: 楷体_GB2312;">楷体_GB2312：KaiTi_GB2312</h3></td>
+        <td><h3 style="font-family: 华文楷体;">华文楷体：STKaiti</h3></td>
+        <td><h3 style="font-family: 华文行楷;">华文行楷：STXingkai</h3></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><h3 style="font-family: 宋体;">宋体：SimSun</h3></td>
+        <td><h3 style="font-family: 新宋体;">新宋体：NSimSun</h3></td>
+        <td><h3 style="font-family: 仿宋;">仿宋：FangSong</h3></td>
+        <td><h3 style="font-family: 仿宋_GB2312;">仿宋_GB2312：FangSong_GB2312</h3></td>
+        <td><h3 style="font-family: 华文宋体;">华文宋体：STSong</h3></td>
+    </tr>
+    <tr>
+        <td><h3 style="font-family: 华文中宋;">华文中宋：STZhongsong</h3></td>
+        <td><h3 style="font-family: 华文仿宋;">华文仿宋：STFangsong</h3></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><h3 style="font-family: 华文新魏;">华文新魏：STXinwei</h3></td>
+        <td><h3 style="font-family: 华文琥珀;">华文琥珀：STHupo</h3></td>
+        <td><h3 style="font-family: 隶书;">隶书：LiSu</h3></td>
+        <td><h3 style="font-family: 华文隶书;">华文隶书：STLiti</h3></td>
+        <td><h3 style="font-family: 华文彩云;">华文彩云：STCaiyun</h3></td>
+    </tr>
+    <tr>
+        <td><h3 style="font-family: 方正舒体;">方正舒体：FZShuTi</h3></td>
+        <td><h3 style="font-family: 方正姚体;">方正姚体：FZYaoti</h3></td>
+        <td><h3 style="font-family: 幼圆;">幼圆：YouYuan</h3></td>
+        <td><h3 style="family:\5B8B\4F53;">PingFangSC-Medium</h3></td>
+        <td></td>
+    </tr>
+</table>
+
