@@ -4,11 +4,13 @@ title: 关于我
 ---
 <h1 style="font-family: 华文楷体;text-align:center;">张梓源</h1>
 
-<p style="font-family: 华文楷体;">我现在是<a href="https://www.sufe.edu.cn/structure/index.psp">上海财经大学</a><a href="https://ssm.sufe.edu.cn/">统计与管理学院</a>数理金融与金融科技研究生一年级的学生。非常幸运能够在<a href="https://yixuan.blog/">邱怡轩</a>老师的指导下进行学习。我爱好各种新鲜娱乐活动，近期正在尝试学习瑜伽和网球，欢迎各位朋友滴滴我进行学习生活交流：）这里是我的中文主页，欢迎点击我的<a href="https://bobothebest.github.io/homepage_en/about/">英文主页</a>了解更多 <span class="love">❤</span> </p>
+<p style="font-family: 华文楷体;">我现在是<a href="https://www.sufe.edu.cn/structure/index.psp">上海财经大学</a><a href="https://ssm.sufe.edu.cn/">统计与管理学院</a>与<a href="https://www.bu.edu/">波士顿大学</a>凯斯特罗姆商学院联合培养的二年级研究生，专业为数理金融与金融科技。非常幸运能够在<a href="https://yixuan.blog/">邱怡轩</a>老师的指导下进行学习。目前在波士顿进行外方学习。我爱好各种娱乐活动，近期正在尝试学习瑜伽和网球，欢迎各位朋友滴滴我进行学习生活交流：）这里是我的中文主页，欢迎点击我的<a href="https://bobothebest.github.io/homepage_en/about/">英文主页</a>了解更多 <span class="love">❤</span> </p>
 
 <br>
 
 <h2 style="font-family: 华文楷体;font-size:6;">教育经历</h2>
+<p style="text-align:left;font-family: 华文楷体;"><b>波士顿大学｜数理金融与金融科技专业｜硕士<span style="float:right;">2023.09-2025.07</span></b></p>
+ <p style="font-family: 华文楷体;">主修课程： 公司金融，随机分析，金融基础，编程（python，C++）。</p>
 <p style="text-align:left;font-family: 华文楷体;"><b>上海财经大学｜数理金融与金融科技专业｜硕士<span style="float:right;">2022.09-2025.07</span></b></p>
  <p style="font-family: 华文楷体;">主修课程： 金融随机分析，金融计量学，统计理论与方法，数据分析与统计建模，优化方法及其应用。</p>
 <p style="text-align:left;font-family: 华文楷体;"><b>上海财经大学｜数据科学与大数据技术｜本科<span style="float:right;">2018.09-2022.07</span></b></p>
@@ -16,6 +18,9 @@ title: 关于我
  
 <br>
 <h2 style="font-family: 华文楷体;">荣誉证书</h2>
+<p style="text-align:left;font-family: 华文楷体;">申万宏源奖学金<span style="float:right;">2023.11</span></p>
+<p style="text-align:left;font-family: 华文楷体;">研究生学业奖学金一等奖<span style="float:right;">2023.11</span></p>
+<p style="text-align:left;font-family: 华文楷体;">2023-2024学年上海财经大学统计与管理学院优秀学生称号<span style="float:right;">2023.10</span></p>
 <p style="text-align:left;font-family: 华文楷体;">研究生学业奖学金二等奖<span style="float:right;">2022.12</span></p>
 <p style="text-align:left;font-family: 华文楷体;">全国研究生工业与经济金融大数据建模与计算大赛三等奖<span style="float:right;">2022.11</span></p>
 <p style="text-align:left;font-family: 华文楷体;">全国大学生数学建模竞赛上海市一等奖<span style="float:right;">2021.11</span></p>
