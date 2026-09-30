@@ -11,6 +11,7 @@ tags:
 - 读书笔记
 date: 2026-09-30 10:02 -0400
 toc: true
+math: true
 ---
 > **导读**
 >
@@ -244,14 +245,14 @@ $$P(\vert X-\mu\vert <k\sigma)=\begin{cases}0.6826,&k=1\\0.9545,&k=2\\0.9973,&k=
 
 **本系列目录**
 
-1. [01｜概念简答索引]({% post_url 2026-09-30-mao-notes-01-concepts %})
+1. [01｜概念简答索引]({{ site.baseurl }}{% post_url 2026-09-30-mao-notes-01-concepts %})
 2. **02｜常用分布**（本篇）
-3. [03｜多维分布、协方差与条件期望]({% post_url 2026-09-30-mao-notes-03-multivariate %})
-4. [04｜特征函数、大数定律与中心极限定理]({% post_url 2026-09-30-mao-notes-04-limit-theorems %})
-5. [05｜抽样分布、次序统计量与充分统计量]({% post_url 2026-09-30-mao-notes-05-sampling %})
-6. [06｜参数估计]({% post_url 2026-09-30-mao-notes-06-estimation %})
-7. [07｜区间估计、假设检验与习题结论]({% post_url 2026-09-30-mao-notes-07-intervals-tests %})
+3. [03｜多维分布、协方差与条件期望]({{ site.baseurl }}{% post_url 2026-09-30-mao-notes-03-multivariate %})
+4. [04｜特征函数、大数定律与中心极限定理]({{ site.baseurl }}{% post_url 2026-09-30-mao-notes-04-limit-theorems %})
+5. [05｜抽样分布、次序统计量与充分统计量]({{ site.baseurl }}{% post_url 2026-09-30-mao-notes-05-sampling %})
+6. [06｜参数估计]({{ site.baseurl }}{% post_url 2026-09-30-mao-notes-06-estimation %})
+7. [07｜区间估计、假设检验与习题结论]({{ site.baseurl }}{% post_url 2026-09-30-mao-notes-07-intervals-tests %})
 
-[← 上一篇：概念简答索引]({% post_url 2026-09-30-mao-notes-01-concepts %})　·　[下一篇：多维分布、协方差与条件期望 →]({% post_url 2026-09-30-mao-notes-03-multivariate %})
+[← 上一篇：概念简答索引]({{ site.baseurl }}{% post_url 2026-09-30-mao-notes-01-concepts %})　·　[下一篇：多维分布、协方差与条件期望 →]({{ site.baseurl }}{% post_url 2026-09-30-mao-notes-03-multivariate %})
 
 *本系列是我复习茆诗松、程依明、濮晓龙《概率论与数理统计教程》时整理的笔记，共 7 篇。文中 P××× 为茆书页码，“指导书”为配套的学习指导与习题解答。如有错漏，欢迎指出。*

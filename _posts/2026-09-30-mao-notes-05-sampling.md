@@ -13,6 +13,7 @@ tags:
 - 读书笔记
 date: 2026-09-30 10:05 -0400
 toc: true
+math: true
 ---
 > **导读**
 >
@@ -196,14 +197,14 @@ $$p(\boldsymbol x;\theta)=\prod_{i=1}^n\frac1\theta I_{\{0<x_i<\theta\}}=\underb
 
 **本系列目录**
 
-1. [01｜概念简答索引]({% post_url 2026-09-30-mao-notes-01-concepts %})
-2. [02｜常用分布]({% post_url 2026-09-30-mao-notes-02-distributions %})
-3. [03｜多维分布、协方差与条件期望]({% post_url 2026-09-30-mao-notes-03-multivariate %})
-4. [04｜特征函数、大数定律与中心极限定理]({% post_url 2026-09-30-mao-notes-04-limit-theorems %})
+1. [01｜概念简答索引]({{ site.baseurl }}{% post_url 2026-09-30-mao-notes-01-concepts %})
+2. [02｜常用分布]({{ site.baseurl }}{% post_url 2026-09-30-mao-notes-02-distributions %})
+3. [03｜多维分布、协方差与条件期望]({{ site.baseurl }}{% post_url 2026-09-30-mao-notes-03-multivariate %})
+4. [04｜特征函数、大数定律与中心极限定理]({{ site.baseurl }}{% post_url 2026-09-30-mao-notes-04-limit-theorems %})
 5. **05｜抽样分布、次序统计量与充分统计量**（本篇）
-6. [06｜参数估计]({% post_url 2026-09-30-mao-notes-06-estimation %})
-7. [07｜区间估计、假设检验与习题结论]({% post_url 2026-09-30-mao-notes-07-intervals-tests %})
+6. [06｜参数估计]({{ site.baseurl }}{% post_url 2026-09-30-mao-notes-06-estimation %})
+7. [07｜区间估计、假设检验与习题结论]({{ site.baseurl }}{% post_url 2026-09-30-mao-notes-07-intervals-tests %})
 
-[← 上一篇：特征函数、大数定律与中心极限定理]({% post_url 2026-09-30-mao-notes-04-limit-theorems %})　·　[下一篇：参数估计 →]({% post_url 2026-09-30-mao-notes-06-estimation %})
+[← 上一篇：特征函数、大数定律与中心极限定理]({{ site.baseurl }}{% post_url 2026-09-30-mao-notes-04-limit-theorems %})　·　[下一篇：参数估计 →]({{ site.baseurl }}{% post_url 2026-09-30-mao-notes-06-estimation %})
 
 *本系列是我复习茆诗松、程依明、濮晓龙《概率论与数理统计教程》时整理的笔记，共 7 篇。文中 P××× 为茆书页码，“指导书”为配套的学习指导与习题解答。如有错漏，欢迎指出。*
