@@ -4,13 +4,9 @@ title: "随机过程笔记 05｜Black–Scholes：复制、偏微分方程与希
 author: 张梓源
 tags:
 - 随机过程笔记
-- BU MF 790
 - 随机分析
-- Black-Scholes
-- 期权定价
-- 希腊字母
-- 隐含波动率
-- 读书笔记
+- 金融数学
+- 学习笔记
 date: 2026-10-21 10:05 -0400
 toc: true
 math: true

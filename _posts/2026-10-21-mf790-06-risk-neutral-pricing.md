@@ -4,12 +4,9 @@ title: "随机过程笔记 06｜风险中性定价、测度变换与 Girsanov �
 author: 张梓源
 tags:
 - 随机过程笔记
-- BU MF 790
 - 随机分析
-- 风险中性定价
-- 测度变换
-- Girsanov 定理
-- 读书笔记
+- 金融数学
+- 学习笔记
 date: 2026-10-21 10:06 -0400
 toc: true
 math: true

@@ -4,12 +4,8 @@ title: "随机过程笔记 07｜随机微分方程、Feynman–Kac 与停时"
 author: 张梓源
 tags:
 - 随机过程笔记
-- BU MF 790
 - 随机分析
-- 随机微分方程
-- Feynman-Kac
-- 停时
-- 读书笔记
+- 学习笔记
 date: 2026-10-21 10:07 -0400
 toc: true
 math: true
