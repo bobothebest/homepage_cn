@@ -4,8 +4,6 @@ title: "随机过程笔记 05｜Black–Scholes：复制、偏微分方程与希
 author: 张梓源
 tags:
 - 随机过程笔记
-- 随机分析
-- 金融数学
 - 学习笔记
 date: 2026-10-21 10:05 -0400
 toc: true
